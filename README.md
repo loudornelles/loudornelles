@@ -1,8 +1,7 @@
-
+<img src="https://github.com/loudornelles/loudornelles/blob/8886446d0a7461c010cdbaea77afdf42354cb708/Design%20sem%20nome.gif" width="100%">
 ### Oie    
 <!--
 **loudornelles/loudornelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github.com/loudornelles/loudornelles/blob/4d9893f0535b0bb99ea973e5f255863338883774/line-neon.gif" width="100%">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
